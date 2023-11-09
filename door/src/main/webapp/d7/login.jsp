@@ -7,6 +7,10 @@
     <link rel="stylesheet" href="login.css">
     
 </head>
+<%
+String id = (String)session.getAttribute("id");
+
+%>
 <body>
     <!-- GIF 이미지를 랜덤한 위치에 배치합니다. -->
     <img src="https://i.gifer.com/Imiq.gif" class="gif-image" style="top: 50px; left: 100px;">
