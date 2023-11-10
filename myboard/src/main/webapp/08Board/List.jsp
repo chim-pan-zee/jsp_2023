@@ -26,7 +26,7 @@ dao.close();  // DB 연결 닫기
 <html>
 <head>
 <meta charset="UTF-8">
-<title>회원제 게시판</title>
+<title>회원제 게시판</title>													
 </head>
 <body>
     <jsp:include page="../common/Link.jsp" />  <!-- 공통 링크 -->

@@ -13,9 +13,9 @@
         <% } %>
             <!-- 8장과 9장의 회원제 게시판 프로젝트에서 사용할 링크 -->
             &nbsp;&nbsp;&nbsp; 
-            <a href="<%= contextPath%>/List.jsp">게시판(페이징X)</a>
+            <a href="<%= contextPath%>/08Board/List.jsp">게시판(페이징X)</a>
             &nbsp;&nbsp;&nbsp; 
-            <a href="<%= contextPath%>/List.jsp">게시판(페이징O)</a>
+            <a href="<%= contextPath%>/08Board/List.jsp">게시판(페이징O)</a>
         </td>
     </tr>
 </table>
